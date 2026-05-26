@@ -1,4 +1,4 @@
-meter_id,billing_period,electricity_kwh,cost
-MTR001,2026-04,1200,15000
-MTR002,2026-04,900,12000
-MTR003,2026-04,1500,18000
+scope_type,category,raw_unit,normalized_unit,raw_value,emission_factor
+Scope 2,Electricity,kWh,kgCO2e,1200,0.82
+Scope 2,Steam,kWh,kgCO2e,600,0.45
+Scope 2,Cooling,kWh,kgCO2e,400,0.30

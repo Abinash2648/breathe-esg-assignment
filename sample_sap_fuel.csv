@@ -1,4 +1,4 @@
-plant_code,fuel_type,quantity,unit,date,vendor
-PLT1001,Diesel,500,Liters,2026-05-01,Shell
-PLT1002,Petrol,300,Liters,2026-05-02,BP
-PLT1003,Natural Gas,1000,m3,2026-05-03,Total
+scope_type,category,raw_unit,normalized_unit,raw_value,emission_factor
+Scope 1,Diesel,Liters,kgCO2e,500,2.68
+Scope 1,Petrol,Liters,kgCO2e,300,2.31
+Scope 1,Natural Gas,m3,kgCO2e,1000,1.90
