@@ -6,16 +6,25 @@ A Django REST + React prototype for ESG emissions ingestion, normalization, anal
 
 # Live Deployment
 
-Frontend:
-https://your-frontend.vercel.app
+Frontend (Vercel):
+https://breathe-esg-assignment-flax.vercel.app
 
-Backend API:
-https://your-backend.onrender.com
+Backend API (Render):
+https://breathe-esg-assignment-1xa5.onrender.com
 
 Admin Panel:
-https://your-backend.onrender.com/admin
+https://breathe-esg-assignment-1xa5.onrender.com/admin
 
 ---
+## Features
+
+- Upload ESG CSV datasets
+- Emission normalization
+- Scope 1 / 2 / 3 tracking
+- Emission approval workflow
+- Audit logging
+- REST API integration
+- Live deployed frontend and backend
 
 # GitHub Repository
 
