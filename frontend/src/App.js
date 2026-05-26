@@ -8,7 +8,7 @@ function App() {
 
   useEffect(() => {
 
-    axios.get("http://127.0.0.1:8000/api/emissions/")
+    axios.get("https://breathe-esg-assignment-1xa5.onrender.com/api/emissions/")
       .then((response) => {
         setRecords(response.data);
       });
@@ -30,7 +30,7 @@ function App() {
     try {
 
       await axios.post(
-        "http://127.0.0.1:8000/api/upload-csv/",
+        "https://breathe-esg-assignment-1xa5.onrender.com/api/upload-csv/",
         formData
       );
 
