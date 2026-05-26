@@ -1,0 +1,4 @@
+meter_id,billing_period,electricity_kwh,cost
+MTR001,2026-04,1200,15000
+MTR002,2026-04,900,12000
+MTR003,2026-04,1500,18000

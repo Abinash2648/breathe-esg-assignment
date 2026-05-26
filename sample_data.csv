@@ -1,0 +1,4 @@
+scope_type,category,raw_unit,normalized_unit,raw_value,emission_factor
+Scope 1,Diesel,Liters,Liters,500,2.68
+Scope 2,Electricity,kWh,kWh,1200,0.82
+Scope 3,Travel,km,km,2000,0.15

@@ -1,0 +1,4 @@
+plant_code,fuel_type,quantity,unit,date,vendor
+PLT1001,Diesel,500,Liters,2026-05-01,Shell
+PLT1002,Petrol,300,Liters,2026-05-02,BP
+PLT1003,Natural Gas,1000,m3,2026-05-03,Total
